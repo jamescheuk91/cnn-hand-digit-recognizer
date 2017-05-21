@@ -1,3 +1,7 @@
+__pycache__
 .DS_Store
 MNIST-data
-tmp/mnist_convnet_model
+kaggle
+checkpoints
+.floydexpt
+result.csv
